@@ -11,7 +11,7 @@ This dashboard provide a single view of marketing campaign performance to track 
 
 ## 🛠 Technology Used
 - **Power BI Desktop** – for dashboard development  
-- **Excel / CSV Dataset** – marketing campaign data  
+- **CSV Dataset** – marketing campaign data  
 - **DAX & Power Query** – for data cleaning, modeling, and calculations
 - **Power Pivot** – for data modeling and relationship  
 
@@ -46,4 +46,4 @@ Sample marketing campaign dataset containing:
 ---
 
 ## 📸 Dashboard Screenshot
-![Marketing Campaign Dashboard]()
+![Marketing Campaign Dashboard](https://github.com/Afjal-khan/Marketing-Performance-Analysis-Dashboard/blob/main/Marketing%20campaign%20performance%20analysis%20dashboard.png)
